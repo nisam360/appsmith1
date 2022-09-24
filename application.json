@@ -2,11 +2,11 @@
   "pages": [
     {
       "id": "Page1",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Page2",
-      "isDefault": false
+      "isDefault": true
     }
   ],
   "viewMode": false,
